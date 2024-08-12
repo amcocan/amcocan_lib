@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"72784ea72385c892","type":"group","x":-2320,"y":80,"width":1840,"height":600,"color":"#2feb6a","label":"Active"},
+		{"id":"f2d16b610d0aac75","type":"text","text":"# Active Resources\n___\n- [ ] [APA Citation Generator](https://www.grammarly.com/citations/apa)\n- [ ] [Full Sail Online](https://online.fullsail.edu)\n- [ ] [ProxMox Labs](https://itlab.fsemergingtech.com/)\n- [ ] [Cyber Chef](https://gchq.github.io/CyberChef/)\n- [ ] [Reverse Engineering Resources](https://github.com/HACKE-RC/awesome-reversing?tab=readme-ov-file)\n- [ ] [Cybrary](https://app.cybrary.it)\n- [ ] [Hack The Box](https://app.hackthebox.com)\n- [ ] [Hackerone](https://www.hackerone.com/)\n- [ ] [Try Hack Me](https://tryhackme.com)\n- [ ] [Arch Linux](https://archlinux.org/)\n___","x":-1680,"y":120,"width":560,"height":520,"color":"#2feb6a"},
+		{"id":"4e857694a5267a5f","type":"text","text":"# Home Lab Research\n___\n- [ ] [How to get started building a Home Lab server in 2024](https://joekarlsson.com/2023/09/how-to-get-started-building-a-homelab-server-in-2024/)\n- [ ] [Proxmox VE Helper-Scripts](https://tteck.github.io/Proxmox/#dashboards)\n- [ ] [Homepage Dashboard](https://gethomepage.dev/main/)\n- [ ] [Configuring Proxmox VE to host your cybersecurity home lab](https://medium.com/@emhedge/homelab-learning-configuring-proxmox-ve-to-host-your-cybersecurity-homelab-fda24dcb04cc)\n___","x":-1080,"y":120,"width":560,"height":520,"color":"#2feb6a"},
+		{"id":"f3dbe8c5d65f16c4","type":"text","text":"# Active Buffer\n___\n- [ ] [NMAP Full Guide Video](https://www.youtube.com/watch?v=JHAMj2vN2oU)\n___","x":-2280,"y":120,"width":560,"height":520,"color":"#2feb6a"}
+	],
+	"edges":[]
+}

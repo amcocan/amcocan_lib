@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "9f87f16929e826c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0db6268897b8aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb95056ea56e6d76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb3f2f1bc51f36fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d800b52da640e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8d0d59d03151d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16d7f854ea950ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.51103591918945
+  },
+  "right": {
+    "id": "dfd01aed4aed3c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "d730529f5823d9bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d720dbd29fb903",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "term",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba6f546b4ed1163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "351bb48a1a2e5630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f9ca2a6fd26d94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "651058d9653e176c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c66a1cc699ff62f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb95056ea56e6d76",
+  "lastOpenFiles": [
+    "CYB469-O Reply Post W1.md",
+    "CYB469-O Reply Post W2.md",
+    "CYB469-O Initial Post W2.md",
+    "CYB469-O Initial Post W1.md",
+    "Linux/Prompt Description.md",
+    "().md",
+    "Linux/Linux.md",
+    "Linux/Terminal Emulators.md",
+    "Linux/Shortcuts.md",
+    "Linux/Introduction to Shell.md",
+    "Incident Response.md",
+    "Learning Resources.md",
+    "CYB469-O Notes W1.md",
+    "Active Buffer.canvas",
+    "Linux/Debian.md",
+    "Linux/Getting Help.md",
+    "Linked Images/CVSS v3.1 Equations.png",
+    "Linked Images",
+    "Pasted image 20240619221753.png",
+    "Pasted image 20240619202330.png",
+    "Linux/Architecture.md",
+    "Linux/Philosophy.md",
+    "Linux/File System Hierarchy.md",
+    "Linux/Distributions.md",
+    "Linux/Components.md",
+    "Linux/Linked Images/Terminal Emulators.png",
+    "Linux/Linked Images/Intro To Shell.png",
+    "Welcome.md",
+    "create a link.md",
+    "Linux distribution.md",
+    "2024-06-19.md",
+    "Bootloader.md",
+    "Linux/Linked Images/Linux File System.png",
+    "Linux/Linked Images",
+    "Linux"
+  ]
+}

@@ -1,0 +1,16 @@
+# Some things to ignore...
+# This is configured for my obsidian vault.
+# See .gitignore documentation for more information.
+
+# Directories to ignore.
+# *dir/ or **dir/ or dir/ or dir/*/dir/ or dir/**/dir/
+.DS_Store
+
+# Files to ignore.
+# filename.filext or filename
+
+# File extentions to ignore.
+# *.filext
+
+# Things to exclude from ignores.
+!.gitignore

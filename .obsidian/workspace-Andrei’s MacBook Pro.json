@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "9f87f16929e826c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aad6ee9eca4f291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e7b1d09c73dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security+/Social Engineering Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb3f2f1bc51f36fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d800b52da640e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8d0d59d03151d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16d7f854ea950ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.51103591918945
+  },
+  "right": {
+    "id": "dfd01aed4aed3c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "d730529f5823d9bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d720dbd29fb903",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba6f546b4ed1163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security+/Social Engineering Attacks.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "351bb48a1a2e5630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Security+/Social Engineering Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f9ca2a6fd26d94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c66a1cc699ff62f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security+/Social Engineering Attacks.md"
+              }
+            }
+          },
+          {
+            "id": "f5d5dc8e2eeca9d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "51e7b1d09c73dec1",
+  "lastOpenFiles": [
+    "Gobuster Cheat Sheet.md",
+    "Firefly.md",
+    "Security+/Social Engineering Attacks.md",
+    "Learning Resources.md",
+    "obsidian.md",
+    "Incident Response.md",
+    "Linux/Shortcuts.md",
+    "Linux/Prompt Description.md",
+    "Linux/Philosophy.md",
+    "Linux/Linux.md",
+    "Linux/Components.md",
+    "Linux/Architecture.md",
+    "Linux/Debian.md",
+    "CYB469-O Assignment 2.5.md",
+    "Active Buffer.canvas",
+    "Linked Images/CVSS v3.1 Equations.png",
+    "2024-08-01.md",
+    "CYB469-O Reply Post W2.md",
+    "CYB469-O Reply Post W1.md",
+    "CYB469-O Initial Post W4.md",
+    "CYB469-O Initial Post W1.md",
+    "CYB469-O Initial Post W2.md",
+    "CYB469-O Reply Post W4.md",
+    "CYB469-O Reply Post W3.md",
+    "Linux/Terminal Emulators.md",
+    "Firefly/README.md",
+    "Firefly/versions.json",
+    "Firefly/version-bump.mjs",
+    "Firefly/theme.css",
+    "Firefly/package.json",
+    "Firefly/manifest.json",
+    "Firefly",
+    "Security+",
+    "CYB469-O Initial Post W3.md",
+    "CYB469-O Initial Post W3_R.md",
+    "Linked Images",
+    "Pasted image 20240619221753.png",
+    "Pasted image 20240619202330.png",
+    "Linux/Linked Images/Terminal Emulators.png",
+    "Linux/Linked Images/Intro To Shell.png",
+    "Linux/Linked Images/Linux File System.png",
+    "Linux/Linked Images",
+    "Linux"
+  ]
+}
