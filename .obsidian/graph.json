@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#Index",
+      "color": {
+        "a": 1,
+        "rgb": 16711757
+      }
+    },
+    {
       "query": "tag:#Post  ",
       "color": {
         "a": 1,
-        "rgb": 6084257
+        "rgb": 16356189
+      }
+    },
+    {
+      "query": "tag:#Notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 65356
+      }
+    },
+    {
+      "query": "tag:#Tools tag:#Resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 4683263
       }
     },
     {
@@ -20,32 +41,18 @@
         "a": 1,
         "rgb": 10837206
       }
-    },
-    {
-      "query": "tag:#Notes  ",
-      "color": {
-        "a": 1,
-        "rgb": 14066524
-      }
-    },
-    {
-      "query": "tag:#Tools tag:#Resources  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048397
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 0.431770833333333,
-  "lineSizeMultiplier": 0.840104166666667,
+  "nodeSizeMultiplier": 1.00278290025147,
+  "lineSizeMultiplier": 1.00298826487846,
   "collapse-forces": false,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.5099888868197465,
+  "scale": 0.34932192677459173,
   "close": true
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
-                "mode": "preview",
+                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
+                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
+                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md"
+                "file": "Class Posts/CYB478-O Initial Post W2P1.md"
               }
             }
           },
@@ -157,10 +157,15 @@
   },
   "active": "a2d50086bda32658",
   "lastOpenFiles": [
+    "Class Posts/! - Class Posts.md",
+    "Class Posts/CYB469-O Initial Post W1.md",
+    "Class Posts/CYB478-O Initial Post W2P1.md",
+    "Canvas/Whiteboard.canvas",
     "Incident Response.md",
+    "Class Posts.md",
+    "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
     "Firefly.md",
     "Learning Resources.md",
-    "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
     "Notes/Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
     "Notes/Nessus",
     "Notes/Social Engineering Attacks.md",
@@ -177,8 +182,6 @@
     "Class Posts/CYB478-O Initial Post W1P2.md",
     "Class Posts/CYB478-O Initial Post W1P1.md",
     "Class Posts/CYB469-O Initial Post W2.md",
-    "Class Posts/CYB469-O Initial Post W1.md",
-    "Canvas/Active Buffer.canvas",
     "obsidian.md",
     "Notes/Linux Fundamentals/Shortcuts.md",
     "Notes/Linux Fundamentals/Prompt Description.md",
@@ -189,10 +192,6 @@
     "Linked Images/CVSS v3.1 Equations.png",
     "2024-08-01.md",
     "Class Posts/CYB469-O Reply Post W2.md",
-    "Class Posts/CYB469-O Reply Post W1.md",
-    "Class Posts/CYB469-O Initial Post W4.md",
-    "Class Posts/CYB469-O Reply Post W4.md",
-    "Class Posts/CYB469-O Reply Post W3.md",
     "Firefly/versions.json",
     "Firefly/version-bump.mjs",
     "Firefly/theme.css",
