@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2d50086bda32658",
+            "id": "c302ce36fe166908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
+                "file": "Class Posts/CRR4000-O.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "acf5677b7a85256d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae872e969e84234",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:StudyGuide",
+                "query": "tag:amcocan_lib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
+                "file": "Class Posts/CRR4000-O.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Posts/CYB478-O Initial Post W2P1.md",
+                "file": "Class Posts/CRR4000-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Posts/CYB478-O Initial Post W2P1.md"
+                "file": "Class Posts/CRR4000-O.md"
               }
             }
-          },
-          {
-            "id": "f5d5dc8e2eeca9d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,50 +160,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2d50086bda32658",
+  "active": "c302ce36fe166908",
   "lastOpenFiles": [
+    "! ~ amcocan_lib.md",
+    "Cheat Sheets/! ~ Cheat Sheets.md",
+    "Notes/! ~ Notes.md",
+    "Class Posts/CRR4000-O.md",
+    "Notes/CompTIA Security+/! ~ CompTIA Security+.md",
+    "Class Posts/! ~ Class Posts.md",
+    "Notes/Nessus/! ~ Nessus.md",
+    "Canvas/! ~ Canvas.md",
+    "Notes/Linux Fundamentals/! ~ Linux Fundamentals.md",
+    "Notes/Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
+    "Notes/Linux Fundamentals/Distributions.md",
+    "Notes/Linux Fundamentals/Terminal Emulators.md",
+    "Notes/Linux Fundamentals/Shortcuts.md",
+    "Notes/Linux Fundamentals/Prompt Description.md",
+    "Notes/Linux Fundamentals/Philosophy.md",
+    "Notes/Linux Fundamentals/Linux.md",
+    "Notes/Linux Fundamentals/Introduction to Shell.md",
+    "Notes/Linux Fundamentals/Getting Help.md",
+    "Notes/Linux Fundamentals/File System Hierarchy.md",
+    "Notes/Linux Fundamentals/Debian.md",
+    "Notes/Linux Fundamentals/Components.md",
+    "Notes/Linux Fundamentals/Architecture.md",
+    "Class Posts/CYB478-O Initial Post W2P1.md",
     "Class Posts/Linked Images",
     "Class Posts/Linked Images/Vulnerability Management.jpeg",
-    "Class Posts/! - Class Posts.md",
     "Class Posts/CYB469-O Initial Post W1.md",
-    "Class Posts/CYB478-O Initial Post W2P1.md",
     "Canvas/Whiteboard.canvas",
     "Incident Response.md",
     "Class Posts.md",
-    "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
-    "Firefly.md",
-    "Learning Resources.md",
-    "Notes/Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
     "Notes/Nessus",
-    "Notes/Social Engineering Attacks.md",
     "Cheat Sheets",
-    "CYB469-O Assignment 2.5.md",
     "Notes",
     "Notes/Linux Fundamentals/Linked Images/Terminal Emulators.png",
     "Class Posts",
     "Canvas",
     "Notes/Linux Fundamentals/Linked Images/Linux File System.png",
     "Notes/Linux Fundamentals/Linked Images/Intro To Shell.png",
-    "Notes/Linux Fundamentals/Architecture.md",
-    "Cheat Sheets/Gobuster Cheat Sheet.md",
-    "Class Posts/CYB478-O Initial Post W1P2.md",
-    "Class Posts/CYB478-O Initial Post W1P1.md",
-    "Class Posts/CYB469-O Initial Post W2.md",
-    "obsidian.md",
-    "Notes/Linux Fundamentals/Shortcuts.md",
-    "Notes/Linux Fundamentals/Prompt Description.md",
-    "Notes/Linux Fundamentals/Philosophy.md",
-    "Notes/Linux Fundamentals/Linux.md",
-    "Notes/Linux Fundamentals/Components.md",
-    "Notes/Linux Fundamentals/Debian.md",
     "Linked Images/CVSS v3.1 Equations.png",
-    "2024-08-01.md",
-    "Class Posts/CYB469-O Reply Post W2.md",
     "Firefly/versions.json",
     "Firefly/version-bump.mjs",
     "Firefly/theme.css",
     "Firefly/package.json",
-    "Firefly/manifest.json",
     "Pasted image 20240619221753.png",
     "Pasted image 20240619202330.png"
   ]

@@ -65,5 +65,3 @@ In addition to customizing the prompt, we can customize their terminal environme
 
 However, we see the same as when working on the Windows GUI here. We are logged in as a user on a computer with a specific name, and we know which directory we are in when we navigate through our system. Bash prompt can also be customized and changed to our own needs. The adjustment of the bash prompt is outside the scope of this module. However, we can look at the [bash-prompt-generator](https://bash-prompt-generator.org/) and [powerline](https://github.com/powerline/powerline), which gives us the possibility to adapt our prompt to our needs.
 ___
->[!tip]- Related Notes
->[[Introduction to Shell]]

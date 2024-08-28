@@ -29,14 +29,12 @@ In today’s tutorial, we delve into the world of Tenable Nessus! Our blog is yo
 Before I begin, I will need an activation code for the scanner. To do that, I will need to register with my email as shown in Figure 1.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*goINWVehUisPgGx_j-lrmA.png)
-
-Figure 1: Registration page
+>Figure 1: Registration page
 
 Once you have registered, Tenable will be sending you an email with your activation code and a link to download the scanner.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*vaYLisTEaTn94kBGkfTyiQ.png)
-
-Figure 2: Email with activation code.
+>Figure 2: Email with activation code.
 
 > [!Note]
 > Nessus Essentials vulnerability scanner has a limitation of 16 IP Addresses to scan, but for this tutorial it should be fine.
@@ -48,8 +46,7 @@ On the download page, there is a drop downs for Version and Platform. I will be 
 - Mac OS X (64-bit) I currently do not possess the Mac Silicon at this time to test on how it functions.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*j8jgYrSB4oZhShPHQsKipQ.png)
-
-Figure 3: Download Tenable Nessus
+>Figure 3: Download Tenable Nessus
 ___
 # Cloning VM
 
@@ -66,8 +63,7 @@ Full clones are complete and independent copies of a virtual machine and operate
 A linked clone is a snapshot of a virtual machine that shares virtual disks with the parent VM in an on-going manner. This conserves disk space and allows multiple VMs to use the same software installation. Linked clones make it easier to create unique virtual machines for individual tasks. They are also easier to share among people who need access to the same virtual disks (like support and dev teams).
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*-pysrKpVPHm6wNUPdbgxKA.png)
-
-Figure 4: VirtualBox — Linked Clone
+>Figure 4: VirtualBox — Linked Clone
 
 ### Installing Tenable Nessus
 
@@ -78,64 +74,53 @@ Now let’s start the new clone virtual machine. Once Windows 11 Enterprise has 
 Once the installer finishes, it should open your web browser. Click on the “**Connect via SSL**” button as shown in Figure 5. Note: The SSL certificate is self-signed, and it will display “**Your Connection isn’t private**”. To bypass that, click “**Advanced**” button and click on “**Continue to localhost (unsafe)**” link as shown in Figure 6.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*EUfCS1sUT9BNgWRxZxihiQ.png)
-
-Figure 5: Connect via SSL
+>Figure 5: Connect via SSL
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*_7XA9o-cw8oY7VGSJB6O2w.png)
-
-Figure 6: Self Signed Certificate
+>Figure 6: Self Signed Certificate
 
 Click “**Continue**” to proceed with the installation. Since the virtual machine is connected to the internet, Checking the checkbox is not required as shown in Figure 7.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*-pTBtDP_jG5MfkyhqM3iRA.png)
-
-Figure 7
+>Figure 7
 
 Select the “**Register for Nessus Essentials**” option and click “**Continue**” as shown in Figure 8.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Y9GgNETAzZDNGkqkid2j_A.png)
-
-Figure 8: Register for Nessus Essentials
+>Figure 8: Register for Nessus Essentials
 
 Since I already have the activation code, I can go ahead and click “Skip” button as shown in Figure 9. If you do not have an activation code, proceed to fill in the required text boxes.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*udJoJeMynTLJF27wYrVmWA.png)
-
-Figure 9: Get activation code.
+>Figure 9: Get activation code.
 
 I am going to use the activation code that I got the email from Nessus. Once it is entered, press “Continue” button as shown .
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Ydw-uL13egLFRABt2iJZyw.png)
-
-Figure 10: Enter activation code.
+>Figure 10: Enter activation code.
 
 Now let’s create a user account, enter a username and password as shown in Figure 11.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*NqcYXlb6s5phELmJ1rwJuQ.png)
-
-Figure 11: Create an account.
+>Figure 11: Create an account.
 
 Nessus will now initialize and download the required plugin as shown in Figure 12. This will take a few minutes (~20 — 30 mins with a nvme drive).
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*RlaCTlVCUGBm6BgKIAjZYA.png)
-
-Figure 12: Initializing Nessus
+>Figure 12: Initializing Nessus
 
 Once Nessus finishes initializing, it will go to the main page of the Nessus as shown in Figure 13. Before starting the scan, the plugins will need to compile first and do not worry, Nessus will perform this action for you automatically. Hover over the stat icon and it will show the percent which has been completed as shown in Figure 14. Again, this goes faster on a nvme drive compared to a mechanical drive.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*4819xmI1QgHzfc3ZfG2smw.png)
-
-Figure 13: Tenable Main Page
+>Figure 13: Tenable Main Page
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*ZxhiKJVGPyjjhJswAJv5vg.png)
-
-Figure 14: Compiling Plugins
+>Figure 14: Compiling Plugins
 
 This would be a great time to review [Tenable Research | Tenable®](https://www.tenable.com/research) while the plugins complies because it is going to be a while before it finishes. Tenable Research talks about Security Alerts, Zero-Day Research, Research Blogs, Webinars and Reports, and plus there is a community support as shown in Figure 15.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Vq5hhrR95Y-LTe4MnSi-2A.png)
-
-Figure 15: Tenable Nessus Research.
+>Figure 15: Tenable Nessus Research.
 
 Once the plugins are done compiling, click “**Settings**”. In the setting page, the Overview tab will provide the following information as shown in Figure 16:
 
@@ -150,8 +135,7 @@ Once the plugins are done compiling, click “**Settings**”. In the setting pa
 The License Utilization, Software Update, Encryption Password, and Events tabs are self-explanatory.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*TRvUpEdIipmjW1cNWryl7Q.png)
-
-Figure 16: Overview tab
+>Figure 16: Overview tab
 
 When click on “Scans” link for the first time, Tenable Nessus will open a dialog box with the following message. This is a getting started dialog which will perform a Host Discovery Scan.
 
@@ -160,20 +144,17 @@ When click on “Scans” link for the first time, Tenable Nessus will open a di
 > Enter targets as hostnames, IPv4 addresses, or IPv6 addresses. For IP addresses, you can use CIDR notation (e.g., 192.168.0.0/24), a range (e.g., 192.168.0.1–192.168.0.255), or a comma-separated list (e.g., 192.168.0.0, 192.168.0.1).
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*-xScfVwWDloqEyJ3r4-lKg.png)
-
-Figure 17
+>Figure 17
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*5pg7h0ZJoaQTVMA0Y0A_Ig.png)
-
-Figure 18
+>Figure 18
 
 ### Type of Scan Templates
 
 Tenable Nessus stands out as a powerhouse in this arena, offering a versatile array of scanning templates to suit various needs. Let’s delve into some key templates and their roles in fortifying in security posture as shown in Figure 19.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*KvuQ23tgM5ieKUVFFYacQg.png)
-
-Figure 19: Scan templates
+>Figure 19: Scan templates
 ___
 # Discovery Templates
 
@@ -336,34 +317,28 @@ ___
 I have selected the Malware Scan template, and it will be scanning a Raspberry Pi 4 which has Ubuntu 22.04 currently installed. In the “**Basic**”, Enter the name and target. I will enter “**Rasp**” and IP address “**192.168.0.156**” as shown in Figure 20. I will leave the default configuration for Discovery, Assessment, Report, and Advance in the “**Settings**” tab.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*4dF1qJV9PmoHmWzSNV8qJw.png)
-
-Figure 20: Scan Options
+>Figure 20: Scan Options
 
 On the “**Credentials**” tab, I will be logging in by **SSH**. In the SSH panel, change the Authentication method to “**password**” and enter the login credentials. In the “**Elevate Privileges with**” dropdown, select “**sudo**” and enter the “**sudo user**” and “**sudo password**” as shown in Figure 21.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*U6b70CFqtwQ3U_joqxoxeQ.png)
-
-Figure 21: Credentials
+>Figure 21: Credentials
 
 On the “**Plugins**” tab, it shows the plugins that the scanner will be using as shown in Figure 22. Clicking on the plugin will display more information as shown in Figure 23. Click “**save**” will save the configuration for this scan.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Beb2TFx_SvCUl3Z8vy4B7g.png)
-
-Figure 22: Types of plugins
+>Figure 22: Types of plugins
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*bykw6gPPZYBBvok8yjw1Zg.png)
-
-Figure 23: Plugin information
+>Figure 23: Plugin information
 
 On the side menu, click on “**My Scans**” and on the table it will show the newly created scan. Click on the “**play**” icon to start the scan as shown in Figure 24. This scan can take a few minutes to complete and once the scan is completed a check mark will appear on the Last Scanned column as shown in Figure 25. To review the results, click on the scan.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*iWgv-bagr95iFkcPC-n0FQ.png)
-
-Figure 24: My Scans
+>Figure 24: My Scans
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*DZy7-QeKK36eLWDGus8-vQ.png)
-
-Figure 25: Completed Scan
+>Figure 25: Completed Scan
 
 On the scan results page, I went ahead and clicked on the “**Vulnerabilities**” tab. As shown in Figure 26, the scan did not detect any Malware installed on the Raspberry Pi 4, but it did give us information about the device and label all the “**Severity**” as info. Selecting a row will display more information about the severity.
 
@@ -381,14 +356,12 @@ The Severity has a purpose, and this provides a Service Level Agreement (SLA) of
 >These are the default date that Nessus provides.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*4h3nxfrY7cW0phPkO94XUA.png)
-
-Figure 26: Scan results
+>Figure 26: Scan results
 
 In Figure 27, it shows what the plugin was able to find. The plugin “**Microsoft Windows SMB shares Enumeration**” was able to detect the port and list the available SMB shares.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*kNg_TrfD2HfGQ2JpLj051A.png)
-
-Figure 27: Plugin Details
+>Figure 27: Plugin Details
 ___
 # Generating the Tenable Nessus Report
 
@@ -398,14 +371,12 @@ Generating the report is quite easy, Click the “**Report**” button and Gener
 - Select a Report Template: **Detailed Vulnerabilities by Plugin**
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*ooM2ozFvGYMnY2XzAmC5Bw.png)
-
-Figure 28: Generate Report Options
+>Figure 28: Generate Report Options
 
 In Figure 29, The report shows all the Vulnerabilities by Plugin and along with Synopsis, Description, Solution, Risk Factor, Plugin Information, and Plugin Output.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*AMyQH9bTo2zyeIcL9u5x5w.png)
-
-Figure 29: Tenable Nessus HTML Report
+>Figure 29: Tenable Nessus HTML Report
 
 In conclusion, whether you are safeguarding a small business or fortifying an enterprise-level network, Nessus proves to be an invaluable ally in the ongoing battle against cyber threats. This tutorial serves as a compass, guiding you through the intricate features of Tenable Nessus, equipping you with the knowledge and tools necessary to fortify, secure, and conquer the ever-evolving landscape of cybersecurity. Stay vigilant, stay informed, and let Tenable Nessus be your shield in the digital frontier. In the next tutorial, I will demonstrate on how to use the API that are built-in to Tenable Nessus.
 ___

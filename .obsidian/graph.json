@@ -8,51 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Index",
+      "query": "tag:#amcocan_lib",
       "color": {
         "a": 1,
-        "rgb": 16711757
+        "rgb": 16711727
       }
     },
     {
-      "query": "tag:#Post  ",
+      "query": "tag: #Index  ",
       "color": {
         "a": 1,
-        "rgb": 16356189
-      }
-    },
-    {
-      "query": "tag:#Notes  ",
-      "color": {
-        "a": 1,
-        "rgb": 65356
-      }
-    },
-    {
-      "query": "tag:#Tools tag:#Resources  ",
-      "color": {
-        "a": 1,
-        "rgb": 4683263
-      }
-    },
-    {
-      "query": "tag:#Linux  ",
-      "color": {
-        "a": 1,
-        "rgb": 10837206
+        "rgb": 9264383
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.00278290025147,
-  "lineSizeMultiplier": 1.00298826487846,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 0.993229166666667,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
-  "linkStrength": 0.5,
-  "linkDistance": 250,
-  "scale": 0.34932192677459173,
+  "centerStrength": 0.703125,
+  "repelStrength": 13.125,
+  "linkStrength": 0.697916666666667,
+  "linkDistance": 30,
+  "scale": 0.27268599173600905,
   "close": true
 }

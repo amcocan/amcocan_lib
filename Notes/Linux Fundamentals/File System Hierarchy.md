@@ -10,7 +10,7 @@ ___
 >The Linux operating system is structured in a tree-like hierarchy and is documented in the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/). Linux is structured with the following standard top-level directories:
 
 ![[Linux File System.png]]
-#### Linux File System Hierarchy Video
+## Linux File System Hierarchy Video
 
 ![](https://www.youtube.com/watch?v=42iQKuQodW4)
 
@@ -31,5 +31,4 @@ ___
 | `/tmp`   | The operating system and many programs use this directory to store temporary files. This directory is generally cleared upon system boot and may be deleted at other times without any warning.                                                                                                                                   |
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                  |
 | `/var`   | This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.                                                                                                                                                                                               |
-
 ___

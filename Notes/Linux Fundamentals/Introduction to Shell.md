@@ -19,8 +19,3 @@ The most commonly used shell in Linux is the `Bourne-Again Shell` (`BASH`), an
 Besides Bash, there also exist other shells like [Tcsh/Csh](https://en.wikipedia.org/wiki/Tcsh), [Ksh](https://en.wikipedia.org/wiki/KornShell), [Zsh](https://en.wikipedia.org/wiki/Z_shell), [Fish](https://en.wikipedia.org/wiki/Friendly_interactive_shell) shell and others.
 
 ___
->[!tip]- Related Notes
->[[Terminal Emulators]]
->[[Prompt Description]]
->[[Getting Help]]
->[[Shortcuts]]

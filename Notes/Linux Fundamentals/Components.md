@@ -21,6 +21,3 @@ Also known as a graphical user interface (GUI). There are many options, includin
 #### Utilities:
 Applications or utilities are programs that perform particular functions for the user or another program.
 ___
->[!tip]- Related Notes
->[[Philosophy]]
->[[Architecture]]

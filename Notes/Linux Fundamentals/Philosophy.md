@@ -21,6 +21,3 @@ Linux is designed to work mainly with the shell (or terminal), which gives the u
 #### 5. Configuration data stored in a text file
 An example of such a file is the `/etc/passwd` file, which stores all users registered on the system.
 ___
->[!tip]- Related Notes
->[[Components]]
->[[Architecture]]

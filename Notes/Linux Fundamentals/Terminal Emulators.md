@@ -13,5 +13,3 @@ Terminal emulators and multiplexers are beneficial extensions for the terminal. 
 
 ![[Terminal Emulators.png]]
 ___
->[!tip]- Related Notes
->[[Introduction to Shell]]

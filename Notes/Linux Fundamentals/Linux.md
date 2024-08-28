@@ -20,17 +20,3 @@ Linux is an operating system like Windows, iOS, Android, or macOS. An OS is soft
 
 With the interactive instances, we get access to the Pwnbox, a customized version of Parrot OS. This will be the primary OS we will work with through the modules. Parrot OS is a Debian-based Linux distribution that focuses on security, privacy, and development.
 ___
->[!tip]- Related Notes
->[[Linux]]
->[[Philosophy]]
->[[Components]]
->[[Architecture]]
->[[File System Hierarchy]]
->[[Distributions]]
->[[Debian]]
->[[Introduction to Shell]]
->[[Terminal Emulators]]
->[[Prompt Description]]
->[[Getting Help]]
->[[Shortcuts]]
-

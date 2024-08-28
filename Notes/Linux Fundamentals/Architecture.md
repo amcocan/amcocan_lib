@@ -17,6 +17,3 @@ A command-line interface (**CLI**), also known as a shell that a user can enter 
 #### System Utility:
 Makes available to the user all of the operating system's functionality.
 ___
->[!tip]- Related Notes
->[[Components]]
->[[Philosophy]]

@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Firefly",
-  "accentColor": "",
+  "cssTheme": "Encore",
+  "accentColor": "#ff002f",
   "theme": "obsidian",
   "baseFontSize": 16
 }

@@ -108,5 +108,3 @@ visudo (8)           - edit the sudoers file
 
 Another useful resource to get help if we have issues to understand a long command is: [https://explainshell.com/](https://explainshell.com/)
 ___
->[!tip]- Related Notes
->[[Introduction to Shell]]

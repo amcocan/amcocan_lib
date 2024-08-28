@@ -49,5 +49,3 @@ There are many shortcuts that we can use to make working with Linux easier and f
 `[CTRL] + [+]` - Zoom in.
 `[CTRL] + [-]` - Zoom out.
 ___
->[!tip]- Related Notes
->[[Introduction to Shell]]
