@@ -1,10 +1,8 @@
 ---
 tags:
-  - Linux
-  - Terminal
-  - Emulators
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 Terminal emulation is software that emulates the function of a terminal. It allows the use of text-based programs within a graphical user interface (`GUI`). There are also so-called command-line interfaces (`CLI`) that run as additional terminals in one terminal. In short, a terminal serves as an interface to the shell interpreter.

@@ -6,6 +6,7 @@
       {
         "id": "3aad6ee9eca4f291",
         "type": "tabs",
+        "dimension": 74.87244897959184,
         "children": [
           {
             "id": "c302ce36fe166908",
@@ -18,12 +19,26 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "04f4b16b61beccb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linux Fundamentals/Getting Help.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "acf5677b7a85256d",
         "type": "tabs",
+        "dimension": 25.127551020408163,
         "children": [
           {
             "id": "4ae872e969e84234",
@@ -99,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Posts/CRR4000-O.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Posts/CRR4000-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Class Posts/CRR4000-O.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,12 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c302ce36fe166908",
+  "active": "4ae872e969e84234",
   "lastOpenFiles": [
+    "Notes/Linux Fundamentals/Getting Help.md",
+    "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
+    "Notes/Linux Fundamentals/System Information.md",
+    "Notes/Linux Fundamentals/Terminal Emulators.md",
+    "Notes/Linux Fundamentals/Shortcuts.md",
+    "Pasted image 20240902204250.png",
+    "Class Posts/CRR4000-O.md",
     "! ~ amcocan_lib.md",
     "Cheat Sheets/! ~ Cheat Sheets.md",
     "Notes/! ~ Notes.md",
-    "Class Posts/CRR4000-O.md",
     "Notes/CompTIA Security+/! ~ CompTIA Security+.md",
     "Class Posts/! ~ Class Posts.md",
     "Notes/Nessus/! ~ Nessus.md",
@@ -173,13 +190,10 @@
     "Notes/Linux Fundamentals/! ~ Linux Fundamentals.md",
     "Notes/Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
     "Notes/Linux Fundamentals/Distributions.md",
-    "Notes/Linux Fundamentals/Terminal Emulators.md",
-    "Notes/Linux Fundamentals/Shortcuts.md",
     "Notes/Linux Fundamentals/Prompt Description.md",
     "Notes/Linux Fundamentals/Philosophy.md",
     "Notes/Linux Fundamentals/Linux.md",
     "Notes/Linux Fundamentals/Introduction to Shell.md",
-    "Notes/Linux Fundamentals/Getting Help.md",
     "Notes/Linux Fundamentals/File System Hierarchy.md",
     "Notes/Linux Fundamentals/Debian.md",
     "Notes/Linux Fundamentals/Components.md",
@@ -189,8 +203,6 @@
     "Class Posts/Linked Images/Vulnerability Management.jpeg",
     "Class Posts/CYB469-O Initial Post W1.md",
     "Canvas/Whiteboard.canvas",
-    "Incident Response.md",
-    "Class Posts.md",
     "Notes/Nessus",
     "Cheat Sheets",
     "Notes",
