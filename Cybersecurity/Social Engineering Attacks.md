@@ -14,7 +14,7 @@ ___
 - **Smishing:** This is a form of phishing that leverages text messages (SMS).
 - **Spam:** Massive amount of unsolicited (potentially targeted) messages that aim to obtain sensitive information.
 - **SPIM:** A variant of SPAM over instant messaging services.
-- **Bluejacking:** A variant of SPAM over bluetooth.
+- **Bluejacking:** A variant of SPAM over Bluetooth.
 - **Prepending:** This is a technique that tries to mask SPAM as legitimate.
 - **Pretexting:** Same as Prepending but for instant messaging.
 - **Identity Fraud:** Lying about ones identity as a technique of misdirection in social engineering.
