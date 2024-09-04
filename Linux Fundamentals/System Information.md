@@ -3,6 +3,7 @@ tags:
   - HTB
   - Notes
   - Linux
+  - Reference
 ---
 ___
 # System Information
@@ -32,11 +33,9 @@ Since we will be working with many different Linux systems, we need to learn the
 
 Let us look at a few examples.
 
-#### Hostname
+### Hostname
 
 The `hostname` command is pretty self-explanatory and will just print the name of the computer that we are logged into
-
-  System Information
 
 ```shell
 amcocan@htb[/htb]$ hostname
@@ -44,11 +43,9 @@ amcocan@htb[/htb]$ hostname
 nixfund
 ```
 
-#### Whoami
+### Whoami
 
 This quick and easy command can be used on both Windows and Linux systems to get our current username. During a security assessment, we obtain reverse shell access on a host, and one of the first bits of situational awareness we should do is figuring out what user we are running as. From there, we can figure out if the user has any special privileges/access.
-
-  System Information
 
 ```shell
 cry0l1t3@htb[/htb]$ whoami
@@ -56,11 +53,9 @@ cry0l1t3@htb[/htb]$ whoami
 cry0l1t3
 ```
 
-#### Id
+### Id
 
 The `id` command expands on the `whoami` command and prints out our effective group membership and IDs. This can be of interest to penetration testers looking to see what access a user may have and sysadmins looking to audit account permissions and group membership. In this output, the `hackthebox` group is of interest because it is non-standard, the `adm` group means that the user can read log files in `/var/log` and could potentially gain access to sensitive information, membership in the `sudo` group is of particular interest as this means our user can run some or all commands as the all-powerful `root` user. Sudo rights could help us escalate privileges or could be a sign to a sysadmin that they may need to audit permissions and group memberships to remove any access that is not required for a given user to carry out their day-to-day tasks.
-
-  System Information
 
 ```shell
 cry0l1t3@htb[/htb]$ id
@@ -68,11 +63,9 @@ cry0l1t3@htb[/htb]$ id
 uid=1000(cry0l1t3) gid=1000(cry0l1t3) groups=1000(cry0l1t3),1337(hackthebox),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),116(lpadmin),126(sambashare)
 ```
 
-#### Uname
+### Uname
 
 Let's dig into the `uname` command a bit more. If we type `man uname` in our terminal, we will bring up the man page for the command, which will show the possible options we can run with the command and the results.
-
-  System Information
 
 ```shell
 
@@ -116,8 +109,6 @@ DESCRIPTION
 
 Running `uname -a` will print all information about the machine in a specific order: kernel name, hostname, the kernel release, kernel version, machine hardware name, and operating system. The `-a` flag will omit `-p` (processor type) and `-i` (hardware platform) if they are unknown.
 
-  System Information
-
 ```shell
 cry0l1t3@htb[/htb]$ uname -a
 
@@ -126,11 +117,9 @@ Linux box 4.15.0-99-generic #100-Ubuntu SMP Wed Apr 22 20:32:56 UTC 2020 x86_64 
 
 From the above command, we can see that the kernel name is `Linux`, the hostname is `box`, the kernel release is `4.15.0-99-generic`, the kernel version is `#100-Ubuntu SMP Wed Apr 22 20:32:56 UTC 2020`, and so on. Running any of these options on their own will give us the specific bit output we are interested in.
 
-#### Uname to Obtain Kernel Release
+### Uname to Obtain Kernel Release
 
 Suppose we want to print out the kernel release to search for potential kernel exploits quickly. We can type `uname -r` to obtain this information.
-
-  System Information
 
 ```shell
 cry0l1t3@htb[/htb]$ uname -r
@@ -148,11 +137,10 @@ It is highly recommended to study the commands and understand what they are for 
 
 `Secure Shell` (`SSH`) refers to a protocol that allows clients to access and execute commands or actions on remote computers. On Linux-based hosts and servers running or another Unix-like operating system, SSH is one of the permanently installed standard tools and is the preferred choice for many administrators to configure and maintain a computer through remote access. It is an older and very proven protocol that does not require or offer a graphical user interface (GUI). For this reason, it works very efficiently and occupies very few resources. We use this type of connection in the following sections and in most of the other modules to offer the possibility to try out the learned commands and actions in a safe environment. We can connect to our targets with the following command:
 
-#### SSH Login
-
-  System Information
+### SSH Login
 
 ```shell
 amcocan@htb[/htb]$ ssh [username]@[IP address]
 ```
+
 ___

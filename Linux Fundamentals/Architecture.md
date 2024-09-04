@@ -1,9 +1,8 @@
 ---
 tags:
-  - Linux
-  - Architecture
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 >[!info]

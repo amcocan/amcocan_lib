@@ -1,10 +1,8 @@
 ---
 tags:
-  - Linux
-  - Distros
-  - OS
-  - Cybersecurity
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 Linux distributions - or distros - are operating systems based on the Linux kernel. They are used for various purposes, from servers and embedded devices to desktop computers and mobile phones. Each Linux distribution is different, with its own set of features, packages, and tools. Some popular examples include:

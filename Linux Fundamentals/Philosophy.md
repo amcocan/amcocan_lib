@@ -1,9 +1,8 @@
 ---
 tags:
-  - Linux
-  - Philosophy
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 >[!example]+ Note

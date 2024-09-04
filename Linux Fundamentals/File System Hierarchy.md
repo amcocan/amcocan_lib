@@ -1,9 +1,8 @@
 ---
 tags:
-  - Linux
-  - FSH
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 >[!example]+ Note

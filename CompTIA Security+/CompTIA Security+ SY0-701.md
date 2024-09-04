@@ -1,11 +1,11 @@
 ---
 tags:
-  - StudyGuide
   - Cybersecurity
-  - Certs
   - Notes
-  - Resources
+  - Certs
+  - StudyGuide
   - Research
+  - Resources
 source: https://learning.oreilly.com/course/comptia-security-sy0-701/9780138251062/
 updated: 2024-08-09T17:29:00
 author: amcocan

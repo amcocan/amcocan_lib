@@ -1,8 +1,8 @@
 ---
 tags:
+  - Cybersecurity
   - Resources
   - Tools
-  - Cybersecurity
 ---
 ___
 This is an awesome list of resources related to teaching cybersecurity, primarily to running Capture the Flag (CTF) games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.

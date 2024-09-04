@@ -9,5 +9,8 @@ ___
 - [*] [[! ~ Canvas]]
 - [*] [[! ~ Cheat Sheets]]
 - [*] [[! ~ Class Posts]]
-- [*] [[! ~ Notes]]
+- [x] [[! ~ CompTIA Security+]]
+- [x] [[! ~ Cybersecurity]]
+- [x] [[! ~ Linux Fundamentals]]
+- [x] [[! ~ Nessus]]
 ___

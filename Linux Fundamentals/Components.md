@@ -1,9 +1,8 @@
 ---
 tags:
-  - Linux
-  - Components
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 #### Bootloader:

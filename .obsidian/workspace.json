@@ -4,48 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3aad6ee9eca4f291",
+        "id": "c4f8648c69aff1a7",
         "type": "tabs",
-        "dimension": 74.87244897959184,
         "children": [
           {
-            "id": "c302ce36fe166908",
+            "id": "cf49aea99305f522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Posts/CRR4000-O.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "04f4b16b61beccb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linux Fundamentals/Getting Help.md",
-                "mode": "preview",
+                "file": "! ~ amcocan_lib.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "acf5677b7a85256d",
-        "type": "tabs",
-        "dimension": 25.127551020408163,
-        "children": [
-          {
-            "id": "4ae872e969e84234",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -83,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.51103591918945
+    "width": 334
   },
   "right": {
     "id": "dfd01aed4aed3c17",
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "! ~ amcocan_lib.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "! ~ amcocan_lib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "! ~ amcocan_lib.md"
+              }
+            }
+          },
+          {
+            "id": "5efab54675f3927e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,54 +151,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "index-checker:Check indexes": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ae872e969e84234",
+  "active": "ee8d0d59d03151d3",
   "lastOpenFiles": [
-    "Notes/Linux Fundamentals/Getting Help.md",
-    "Notes/CompTIA Security+/CompTIA Security+ SY0-701.md",
-    "Notes/Linux Fundamentals/System Information.md",
-    "Notes/Linux Fundamentals/Terminal Emulators.md",
-    "Notes/Linux Fundamentals/Shortcuts.md",
-    "Pasted image 20240902204250.png",
-    "Class Posts/CRR4000-O.md",
+    "CompTIA Security+/CompTIA Security+ SY0-701.md",
+    "Linux Fundamentals/Shortcuts.md",
     "! ~ amcocan_lib.md",
-    "Cheat Sheets/! ~ Cheat Sheets.md",
-    "Notes/! ~ Notes.md",
-    "Notes/CompTIA Security+/! ~ CompTIA Security+.md",
+    "Subjects/! ~ Subjects.md",
+    "Linux Fundamentals/! ~ Linux Fundamentals.md",
+    "Cybersecurity/! ~ Cybersecurity.md",
+    "CompTIA Security+/! ~ CompTIA Security+.md",
     "Class Posts/! ~ Class Posts.md",
-    "Notes/Nessus/! ~ Nessus.md",
+    "Class Posts/CRR4000-O.md",
+    "Cheat Sheets/! ~ Cheat Sheets.md",
+    "Nessus/! ~ Nessus.md",
     "Canvas/! ~ Canvas.md",
-    "Notes/Linux Fundamentals/! ~ Linux Fundamentals.md",
-    "Notes/Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
-    "Notes/Linux Fundamentals/Distributions.md",
-    "Notes/Linux Fundamentals/Prompt Description.md",
-    "Notes/Linux Fundamentals/Philosophy.md",
-    "Notes/Linux Fundamentals/Linux.md",
-    "Notes/Linux Fundamentals/Introduction to Shell.md",
-    "Notes/Linux Fundamentals/File System Hierarchy.md",
-    "Notes/Linux Fundamentals/Debian.md",
-    "Notes/Linux Fundamentals/Components.md",
-    "Notes/Linux Fundamentals/Architecture.md",
-    "Class Posts/CYB478-O Initial Post W2P1.md",
+    "Linux Fundamentals/Terminal Emulators.md",
+    "Linux Fundamentals/Prompt Description.md",
+    "Linux Fundamentals/System Information.md",
+    "Linux Fundamentals/Philosophy.md",
+    "Linux Fundamentals/Navigation.md",
+    "Linux Fundamentals/Linux.md",
+    "Linux Fundamentals/Introduction to Shell.md",
+    "Linux Fundamentals/Getting Help.md",
+    "Linux Fundamentals/File System Hierarchy.md",
+    "Linux Fundamentals/Distributions.md",
+    "Linux Fundamentals/Debian.md",
+    "Linux Fundamentals/Components.md",
+    "Linux Fundamentals/Architecture.md",
+    "Cybersecurity/Learning Resources.md",
+    "Cybersecurity",
+    "Pasted image 20240902204250.png",
     "Class Posts/Linked Images",
     "Class Posts/Linked Images/Vulnerability Management.jpeg",
-    "Class Posts/CYB469-O Initial Post W1.md",
     "Canvas/Whiteboard.canvas",
-    "Notes/Nessus",
+    "Nessus",
     "Cheat Sheets",
-    "Notes",
-    "Notes/Linux Fundamentals/Linked Images/Terminal Emulators.png",
+    "Subjects",
+    "Linux Fundamentals/Linked Images/Terminal Emulators.png",
     "Class Posts",
     "Canvas",
-    "Notes/Linux Fundamentals/Linked Images/Linux File System.png",
-    "Notes/Linux Fundamentals/Linked Images/Intro To Shell.png",
-    "Linked Images/CVSS v3.1 Equations.png",
+    "Linux Fundamentals/Linked Images/Linux File System.png",
+    "Linux Fundamentals/Linked Images/Intro To Shell.png",
+    "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
     "Firefly/versions.json",
     "Firefly/version-bump.mjs",
     "Firefly/theme.css",
-    "Firefly/package.json",
     "Pasted image 20240619221753.png",
     "Pasted image 20240619202330.png"
   ]

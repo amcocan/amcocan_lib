@@ -1,0 +1,17 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-mercury",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-fancy-headers": false,
+  "encore-settings@@encore-coloured-tooltip": false,
+  "encore-settings@@encore-translucency-blur-amount": 2,
+  "encore-settings@@encore-mobile-translucency": false,
+  "encore-settings@@blur-amount": "encore-blur-less",
+  "encore-settings@@encore-translucency-image": "url(\"https://images.unsplash.com/photo-1497250681960-ef046c08a56e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D\")",
+  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@encore-disable-clickability-fix": false,
+  "encore-settings@@encore-bright-accent": true,
+  "encore-settings@@encore-highlight-border": false,
+  "encore-settings@@encore-translucency-strength": 0
+}

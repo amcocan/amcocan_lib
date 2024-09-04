@@ -1,9 +1,8 @@
 ---
 tags:
-  - Linux
-  - Shell
-  - OS
   - HTB
+  - Notes
+  - Linux
 ---
 ___
 It is crucial to learn how to use the Linux shell, as there are many servers based on Linux. These are often used because Linux is less error-prone as opposed to Windows servers. For example, web servers are often based on Linux. Knowing how to use the operating system to control it effectively requires understanding and mastering Linux’s essential part, the Shell. When we first switched from Windows to Linux, does it look something like this:
