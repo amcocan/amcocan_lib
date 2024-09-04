@@ -1,6 +1,5 @@
 ---
 tags:
-  - SecurityPlus
   - Cybersecurity
   - Notes
   - StudyGuide

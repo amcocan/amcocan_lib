@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! ~ amcocan_lib.md",
+                "file": "Cybersecurity/Social Engineering Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:amcocan_lib",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! ~ amcocan_lib.md",
+                "file": "Cybersecurity/Social Engineering Attacks.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! ~ amcocan_lib.md",
+                "file": "Cybersecurity/Social Engineering Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! ~ amcocan_lib.md"
+                "file": "Cybersecurity/Social Engineering Attacks.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee8d0d59d03151d3",
+  "active": "5efab54675f3927e",
   "lastOpenFiles": [
+    "! ~ amcocan_lib.md",
     "CompTIA Security+/CompTIA Security+ SY0-701.md",
     "Linux Fundamentals/Shortcuts.md",
-    "! ~ amcocan_lib.md",
     "Subjects/! ~ Subjects.md",
     "Linux Fundamentals/! ~ Linux Fundamentals.md",
     "Cybersecurity/! ~ Cybersecurity.md",
