@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f8648c69aff1a7",
+        "id": "3aad6ee9eca4f291",
         "type": "tabs",
         "children": [
           {
-            "id": "cf49aea99305f522",
+            "id": "a2d50086bda32658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CompTIA Security+/CompTIA Security+ SY0-701.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 242.51103591918945
   },
   "right": {
     "id": "dfd01aed4aed3c17",
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:StudyGuide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,10 +130,10 @@
             }
           },
           {
-            "id": "5efab54675f3927e",
+            "id": "f5d5dc8e2eeca9d1",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "graph",
               "state": {}
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,52 +157,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf49aea99305f522",
+  "active": "a2d50086bda32658",
   "lastOpenFiles": [
-    "CompTIA Security+/! ~ CompTIA Security+.md",
-    "Cybersecurity/Social Engineering Attacks.md",
-    "! ~ amcocan_lib.md",
-    "Untitled.md",
-    "CompTIA Security+/CompTIA Security+ SY0-701.md",
-    "Linux Fundamentals/Shortcuts.md",
-    "Subjects/! ~ Subjects.md",
-    "Linux Fundamentals/! ~ Linux Fundamentals.md",
-    "Cybersecurity/! ~ Cybersecurity.md",
-    "Class Posts/! ~ Class Posts.md",
-    "Class Posts/CRR4000-O.md",
-    "Cheat Sheets/! ~ Cheat Sheets.md",
+    "Class Posts/CYB478-O Initial Post W2P1.md",
+    "Nessus/Unleashing Cybersecurity Prowess - Exploring Tenable Nessus.md",
     "Nessus/! ~ Nessus.md",
-    "Canvas/! ~ Canvas.md",
+    "Nessus",
+    "Linux Fundamentals/Linked Images/Terminal Emulators.png",
+    "Linux Fundamentals/Linked Images/Intro To Shell.png",
+    "Linux Fundamentals/Linked Images/Linux File System.png",
     "Linux Fundamentals/Terminal Emulators.md",
-    "Linux Fundamentals/Prompt Description.md",
     "Linux Fundamentals/System Information.md",
+    "Linux Fundamentals/Shortcuts.md",
+    "Linux Fundamentals/Prompt Description.md",
     "Linux Fundamentals/Philosophy.md",
     "Linux Fundamentals/Navigation.md",
     "Linux Fundamentals/Linux.md",
+    "Linux Fundamentals/Linked Images",
     "Linux Fundamentals/Introduction to Shell.md",
     "Linux Fundamentals/Getting Help.md",
     "Linux Fundamentals/File System Hierarchy.md",
     "Linux Fundamentals/Distributions.md",
     "Linux Fundamentals/Debian.md",
     "Linux Fundamentals/Components.md",
+    "Linux Fundamentals/Architecture.md",
+    "Linux Fundamentals/! ~ Linux Fundamentals.md",
+    "Linux Fundamentals",
+    "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
+    "Cybersecurity/Social Engineering Attacks.md",
+    "Cybersecurity/Linked Images",
+    "Cybersecurity/Learning Resources.md",
+    "Cybersecurity/Incident Response.md",
+    "Cybersecurity/! ~ Cybersecurity.md",
     "Cybersecurity",
-    "Pasted image 20240902204250.png",
+    "CompTIA Security+/CompTIA Security+ SY0-701.md",
+    "CompTIA Security+/! ~ CompTIA Security+.md",
+    "CompTIA Security+",
+    "Class Posts/CRR4000-O.md",
+    "Class Posts/! ~ Class Posts.md",
     "Class Posts/Linked Images",
     "Class Posts/Linked Images/Vulnerability Management.jpeg",
     "Canvas/Whiteboard.canvas",
-    "Nessus",
+    "Notes/Nessus",
     "Cheat Sheets",
-    "Subjects",
-    "Linux Fundamentals/Linked Images/Terminal Emulators.png",
-    "Class Posts",
-    "Canvas",
-    "Linux Fundamentals/Linked Images/Linux File System.png",
-    "Linux Fundamentals/Linked Images/Intro To Shell.png",
-    "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
-    "Firefly/versions.json",
-    "Firefly/version-bump.mjs",
-    "Firefly/theme.css",
-    "Pasted image 20240619221753.png",
-    "Pasted image 20240619202330.png"
+    "Notes",
+    "Notes/Linux Fundamentals/Linked Images/Terminal Emulators.png",
+    "Notes/Linux Fundamentals/Linked Images/Linux File System.png",
+    "Notes/Linux Fundamentals/Linked Images/Intro To Shell.png",
+    "Linked Images/CVSS v3.1 Equations.png",
+    "Pasted image 20240619221753.png"
   ]
 }
