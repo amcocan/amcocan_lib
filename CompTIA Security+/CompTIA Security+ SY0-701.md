@@ -125,3 +125,27 @@ ___
 - **Corrective**
 - **Directive** - Used to increase the effectiveness of other controls. *(e.g., training)*
 ___
+# 2.1 Security and Privacy Principles
+### Information Security CIA Triad
+> The three components of information security.
+1. **Confidentiality**
+	- The assurance that information is not disclosed to unauthorized persons, processes, or devices. 
+2. **Integrity**
+	- The principal that systems are trustworthy, work as intended, and the data is complete and accurate.
+3. **Availability**
+	- The principal that information, systems and supporting infrastructure are operating and accessible when we need.
+### Supporting Principles
+1. **Authentication**
+	>some info
+1. **Authorization**
+2. **Accounting**
+3. **Non-Repudiation**
+___
+# 2.2 Zero Trust
+___
+# 2.3 Physical Security
+___
+# 2.4 Environmental Security
+___
+# 2.5 Deception and Disruption
+___
