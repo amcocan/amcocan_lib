@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CompTIA Security+/CompTIA Security+ SY0-701.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -156,8 +156,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5efab54675f3927e",
+  "active": "cf49aea99305f522",
   "lastOpenFiles": [
+    "CompTIA Security+/Linked Images/ciatriad.png",
+    "CompTIA Security+/Linked Images/ciatriad.png.opdownload",
+    "CompTIA Security+/Linked Images",
+    "CompTIA Security+/New folder",
     "conflict-files-obsidian-git.md",
     "CompTIA Security+/CompTIA Security+ SY0-701.md",
     "CompTIA Security+/! ~ CompTIA Security+.md",
@@ -183,7 +187,6 @@
     "Linux Fundamentals/Getting Help.md",
     "Linux Fundamentals/File System Hierarchy.md",
     "Linux Fundamentals/Distributions.md",
-    "Linux Fundamentals/Debian.md",
     "Cybersecurity",
     "Pasted image 20240902204250.png",
     "Class Posts/Linked Images",
@@ -198,9 +201,6 @@
     "Linux Fundamentals/Linked Images/Linux File System.png",
     "Linux Fundamentals/Linked Images/Intro To Shell.png",
     "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
-    "Firefly/versions.json",
-    "Firefly/version-bump.mjs",
-    "Firefly/theme.css",
     "Pasted image 20240619221753.png",
     "Pasted image 20240619202330.png"
   ]

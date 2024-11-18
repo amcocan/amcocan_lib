@@ -128,6 +128,8 @@ ___
 # 2.1 Security and Privacy Principles
 ### Information Security CIA Triad
 > The three components of information security.
+
+![[ciatriad.png]]
 1. **Confidentiality**
 	- The assurance that information is not disclosed to unauthorized persons, processes, or devices. 
 2. **Integrity**
@@ -135,11 +137,10 @@ ___
 3. **Availability**
 	- The principal that information, systems and supporting infrastructure are operating and accessible when we need.
 ### Supporting Principles
-1. **Authentication**
-	>some info
-1. **Authorization**
-2. **Accounting**
-3. **Non-Repudiation**
+- **Authentication**
+- **Authorization**
+- **Accounting**
+- **Non-Repudiation**
 ___
 # 2.2 Zero Trust
 ___
