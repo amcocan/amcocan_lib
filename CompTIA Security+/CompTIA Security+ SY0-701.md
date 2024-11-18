@@ -119,8 +119,9 @@ ___
 	- Physical controls are *designed to address physical interactions*. Generally related to buildings and equipment. (i.e., Gates, Barricades, Locks, etc.)
 ### Control Classifications:
 > A control can (and often does) *have multiple classifications* depending upon context
-- **Deterrent**
-- **Preventative**
-- **Detective**
+- **Deterrent** - Discourages a threat agent from acting.
+- **Preventative** - Stops a threat agent from being successful.
+- **Detective** - Identifies and reports a threat agent.
 - **Corrective**
+- **Directive** - Used to increase the effectiveness of other controls. *(e.g., training)*
 ___
