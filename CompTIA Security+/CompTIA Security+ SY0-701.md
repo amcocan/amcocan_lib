@@ -30,7 +30,7 @@ ___
 ### Countermeasures:
 **Countermeasures** are controls that are implemented to address a *specific* threat.
 - Countermeasures are *generally reactive*.
-- Countermeasures may be mored effective, but *less efficient in a broad sense of application*.
+- Countermeasures may be more effective, but *less efficient in a broad sense of application*.
 ### Trustworthy:
 Controls should be verifiable (*trustworthy*).
 - **Functionality:** What a control does.
@@ -127,9 +127,8 @@ ___
 ___
 # 2.1 Security and Privacy Principles
 ### Information Security CIA Triad
-> The three components of information security.
-
 ![[ciatriad.png]]
+> The three components of information security.
 1. **Confidentiality**
 	- The assurance that information is not disclosed to unauthorized persons, processes, or devices. 
 2. **Integrity**
@@ -137,10 +136,10 @@ ___
 3. **Availability**
 	- The principal that information, systems and supporting infrastructure are operating and accessible when we need.
 ### Supporting Principles
-- **Authentication**
-- **Authorization**
-- **Accounting**
-- **Non-Repudiation**
+- **Authentication** - 
+- **Authorization** - 
+- **Accounting** - 
+- **Non-Repudiation** - 
 ___
 # 2.2 Zero Trust
 ___

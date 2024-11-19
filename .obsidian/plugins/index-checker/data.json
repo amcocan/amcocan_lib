@@ -1,16 +1,16 @@
 {
-  "indexFileFormat": "! ~ [FOLDER]",
+  "indexFileFormat": "[FOLDER]",
   "useRootIndexFileFormat": false,
-  "rootIndexFileFormat": "! ~ [VAULT]",
+  "rootIndexFileFormat": "[VAULT]",
   "outputFileFormat": "_[FOLDER]",
   "markIndexes": true,
-  "startupCheck": true,
+  "startupCheck": false,
   "nestedMode": "",
   "allFiles": false,
   "ignorePatterns": "",
   "outputMode": "INDEX",
   "prependToIndex": false,
-  "outputLinksFormat": "- [x] [LINKS]",
+  "outputLinksFormat": "***\n[LINKS]",
   "canvasShowOptions": false,
   "canvasGroup": true,
   "canvasGroupLabel": "Missing files:",
@@ -21,17 +21,5 @@
   ],
   "canvasMode": null,
   "persistentMarks": [],
-  "timeStamps": [
-    1725418802081,
-    1725419272363,
-    1725419292336,
-    1725419845345,
-    1725419858291,
-    1725419875743,
-<<<<<<< HEAD
-    1731958990455
-=======
-    1726523185360
->>>>>>> origin/main
-  ]
+  "timeStamps": []
 }
