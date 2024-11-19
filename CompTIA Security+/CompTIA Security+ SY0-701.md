@@ -150,7 +150,14 @@ Consumers expect their privacy to be respected and their personal information to
 - Data privacy controls relate to actions regarding collection, usage, notification, accuracy, and sharing.
 - Data security controls relate to the protection mechanisms of confidentiality, integrity, and availability.
 ### OECD Privacy Principals
-
+1. **Collection Limitation** -
+2. **Data Quality** -
+3. **Purpose Specification** -
+4. **Use Limitation** -
+5. **Security Safeguards** -
+6. **Openness** -
+7. **Individual Participation** -
+8. **Accountability** -
 ___
 # 2.2 Zero Trust
 ___
