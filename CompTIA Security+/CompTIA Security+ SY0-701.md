@@ -154,10 +154,16 @@ Consumers expect their privacy to be respected and their personal information to
 2. **Data Quality** - Personal data should be relevant to the purposes collected and should be accurate, complete, and kept up-to-date.
 3. **Purpose Specification** - The purposes for which personal data is collected should be specified not later than at the time of data collection.
 4. **Use Limitation** - Personal data should not be disclosed or otherwise used for purposes other than those specified except with the consent of the data subject; or by the authority of law.
-5. **Security Safeguards** -
-6. **Openness** -
-7. **Individual Participation** -
-8. **Accountability** -
+5. **Security Safeguards** - Personal data should be protected by reasonable security safeguards against risks such as loss, unauthorized access, destruction, use, modification or disclosure.
+6. **Openness** - Organizations should be transparent about how they handle personal data. People should easily access information about what data is collected, why it’s used, and who manages it.
+7. **Individual Participation** - Individuals have the right to know if their data is held, access it easily, get reasons for denied requests, and correct or delete errors.
+8. **Accountability** - A data controller must follow and uphold the above principles.
+### Strategic Alignment
+- Every security and privacy objective must be strategically aligned with the needs of the organization.
+
+> [!info]+ Our Mission
+> Integrate the fundamental principles of confidentiality, integrity, availability, and privacy into business processes in support of organizational objectives.
+
 ___
 # 2.2 Zero Trust
 ___
