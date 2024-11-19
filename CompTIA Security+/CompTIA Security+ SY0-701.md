@@ -136,10 +136,21 @@ ___
 3. **Availability**
 	- The principal that information, systems and supporting infrastructure are operating and accessible when we need.
 ### Supporting Principles
-- **Authentication** - 
-- **Authorization** - 
-- **Accounting** - 
-- **Non-Repudiation** - 
+- **Authentication** - The process of verifying identity.
+- **Authorization** - The process of approving access.
+- **Accounting** - The process of tracing actions to the source.
+- **Non-Repudiation** - The process of assuring the validity and origin of data.
+### CIA Triad + Privacy
+> To expand upon the existing CIA Triad, we should add **Privacy**.
+
+4. **Privacy**
+	- The right of an individual to control the use of their personal information.
+### Privacy Expectations
+Consumers expect their privacy to be respected and their personal information to be protected be the organizations with which they do business.
+- Data privacy controls relate to actions regarding collection, usage, notification, accuracy, and sharing.
+- Data security controls relate to the protection mechanisms of confidentiality, integrity, and availability.
+### OECD Privacy Principals
+
 ___
 # 2.2 Zero Trust
 ___
