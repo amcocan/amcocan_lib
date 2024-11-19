@@ -168,7 +168,11 @@ ___
 # 2.2 Zero Trust
 ### Zero Trust (ZT)
 - A security framework requiring all subjects, assets, and workflows to be *authenticated*, *authorized*, and *continuously validated* before being granted or keeping access to applications and data.
-
+### A Zero Trust View of a Network
+1. **No Implicit Zone Trust** - 
+2. **No Ownership Assumptions** - 
+3. **Insecure Connections** - 
+4. **Consistent Security Policy** - 
 ___
 # 2.3 Physical Security
 ___
