@@ -167,7 +167,7 @@ Consumers expect their privacy to be respected and their personal information to
 ___
 # 2.2 Zero Trust
 ### Zero Trust (ZT)
-- A security framework requiring all subjects, assets, and workflows to be authenticated, authorized, and continuously validated before being granted or keeping access to applications and data.
+- A security framework requiring all subjects, assets, and workflows to be *authenticated*, *authorized*, and *continuously validated* before being granted or keeping access to applications and data.
 
 ___
 # 2.3 Physical Security
