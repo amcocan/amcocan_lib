@@ -150,10 +150,10 @@ Consumers expect their privacy to be respected and their personal information to
 - Data privacy controls relate to actions regarding collection, usage, notification, accuracy, and sharing.
 - Data security controls relate to the protection mechanisms of confidentiality, integrity, and availability.
 ### OECD Privacy Principals
-1. **Collection Limitation** -
-2. **Data Quality** -
-3. **Purpose Specification** -
-4. **Use Limitation** -
+1. **Collection Limitation** - Collection of personal data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject.
+2. **Data Quality** - Personal data should be relevant to the purposes collected and should be accurate, complete, and kept up-to-date.
+3. **Purpose Specification** - The purposes for which personal data is collected should be specified not later than at the time of data collection.
+4. **Use Limitation** - Personal data should not be disclosed or otherwise used for purposes other than those specified except with the consent of the data subject; or by the authority of law.
 5. **Security Safeguards** -
 6. **Openness** -
 7. **Individual Participation** -
