@@ -177,6 +177,13 @@ A security framework requiring all subjects, assets, and workflows to be *authen
 In networking, a *plane* is an abstract concept of where certain processes take place. In a zero-trust environment, there is a separation of the control and data planes.
 - **Control Plane** - Is used be infrastructure components to maintain and configure assets, access control, and communication security. (In a zero-trust environment, requests for access are made through the control plane.)
 - **Data Plane** - Is used for communication (moving data) between software components.
+### Zero Trust Architecture (ZTA)
+![[Zero Trust Logical Components.png]]
+### Zero Trust Logical Components
+1. **Policy Decision Points (PDP)** - Functions as a gatekeeper and is comprised of two main components. (Policy Engine & Policy Administrator)
+2. **Policy Engine (PE)** - Is responsible for the ultimate decision to grant access to a resource for a given subject.
+3. **Policy Administrator (PA)** - Generates any session-specific authentication and authentication token, or credential used to access an enterprise resource.
+4. **Policy Enforcement Point (PEP)** - Is responsible for enabling, monitoring, and eventually terminating connections between a subject and an enterprise resource.
 ___
 # 2.3 Physical Security
 ___
