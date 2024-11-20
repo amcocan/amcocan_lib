@@ -169,10 +169,10 @@ ___
 ### Zero Trust (ZT)
 - A security framework requiring all subjects, assets, and workflows to be *authenticated*, *authorized*, and *continuously validated* before being granted or keeping access to applications and data.
 ### A Zero Trust View of a Network
-1. **No Implicit Zone Trust** - 
-2. **No Ownership Assumptions** - 
-3. **Insecure Connections** - 
-4. **Consistent Security Policy** - 
+1. **No Implicit Zone Trust** - The entire enterprise private network is not considered an implicit trust zone. Assets should always act as id an attacker is present on the enterprise network.
+2. **No Ownership Assumptions** - Devices on the network may not be owned or configurable by the enterprise. Not all enterprise resources are on enterprise-owned infrastructure.
+3. **Insecure Connections** - Remote subjects should assume that the local (i.e., non-enterprise-owned) network is hostile. Assume that all traffic is being monitored and potentially modified.
+4. **Consistent Security Policy** - Assets and workloads should retain their security posture when moving to or from enterprise-owned infrastructure.
 ___
 # 2.3 Physical Security
 ___
