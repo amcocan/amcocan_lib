@@ -174,10 +174,14 @@ ___
 3. **Insecure Connections** - Remote subjects should assume that the local (i.e., non-enterprise-owned) network is hostile. Assume that all traffic is being monitored and potentially modified.
 4. **Consistent Security Policy** - Assets and workloads should retain their security posture when moving to or from enterprise-owned infrastructure.
 ### Core Principals of Zero Trust (NIST SP800-207)
-1. **Continuous Verification** - 
-2. **Access Limitation** - 
-3. **Limit the Blast Radius** - 
-4. **Automate** - 
+1. **Continuous Verification** - Always verify access, all the time, for all resources.
+2. **Access Limitation** - Access to individual enterprise resources is granted on a per-session basis.
+3. **Limit the "Blast Radius"** - Minimize impact if internal or external resources are breached. (i.e., segmentation, least privilege)
+4. **Automate** - Automate context collection and response. (i.e., credentials, workloads, endpoints, SIEMS, threat intelligence)
+### Control and Data Planes
+In networking, a *plane* is an abstract concept of where certain processes take place. In a zero-trust environment, there is a separation of the control and data planes.
+- **Control Plane** - Is used be infrastructure components to maintain and configure assets, access control, and communication security. (In a zero-trust environment, requests for access are made through the control plane.)
+- **Data Plane** - Is used for communication (moving data) between software components.
 ___
 # 2.3 Physical Security
 ___
