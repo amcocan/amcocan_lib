@@ -225,10 +225,14 @@ Structural design can be used to deter, prevent, and detect unauthorized access.
 	- Keypad code.
 	- RFID card access in which call buttons don't register until an authorized card is detected.
 ### Site Security Controls
-1. **Lighting** - 
-2. **Signs** - 
-3. **Barriers** - 
-4. **Guards** - 
+1. **Lighting** - Used for personnel safety and intruder deterrence. Intruders are less likely to enter well-lit areas.
+2. **Signs** - Used for personnel safety and intruder deterrence. Warning signs indicate surveillance.
+3. **Barriers** - Walls, gates, fences, bollards, and access control vestibules define the perimeter and can be used to control and divert flow of traffic.
+4. **Guards** - Stationed at checkpoints, patrol the area, manage surveillance, and respond to breaches and/or suspicious activity.
+5. **Pick Resistant Lock** - 
+6. **Electronic Lock** - 
+7. **Smart Lock** - 
+8. **Biometric Lock** - 
 ___
 # 2.4 Environmental Security
 ___
