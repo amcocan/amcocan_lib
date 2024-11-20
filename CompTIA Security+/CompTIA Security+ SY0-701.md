@@ -13,9 +13,7 @@ author: amcocan
 ___
 # 1.1 Control Objectives
 
-### Key Terms:
-
-| Term:         | Definition:                                                                  |
+| Key Terms:    | Definition:                                                                  |
 | ------------- | ---------------------------------------------------------------------------- |
 | Vulnerability | This is a weakness.                                                          |
 | Threat        | This is a potential danger.                                                  |
@@ -26,7 +24,8 @@ ___
 - Reduce or eliminate a *vulnerability*.
 - Reduce or eliminate the *likelihood* that a threat actor will be able to exploit a vulnerability.
 - Reduce or eliminate the *impact* of an exploit.
-> A control can do *one*, *two*, or all *three* of these -- but it **must** do at least one of these to be considered a control.
+
+A control can do *one*, *two*, or all *three* of these -- but it **must** do at least one of these to be considered a control.
 ### Countermeasures:
 **Countermeasures** are controls that are implemented to address a *specific* threat.
 - Countermeasures are *generally reactive*.
@@ -85,7 +84,7 @@ The following is the order for the baseline modification process.
 9. **Monitor**
 ### Cost-Benefit Analysis:
 Controls should be subject to a cost-benefit analysis.
-> A **cost-benefit analysis** is the process of *comparing the estimated costs and benefits* to determine whether it makes sense to proceed from a business perspective.
+- A **cost-benefit analysis** is the process of *comparing the estimated costs and benefits* to determine whether it makes sense to proceed from a business perspective.
 
 | Key                               | Value                                                                             |
 | --------------------------------- | --------------------------------------------------------------------------------- |
@@ -118,7 +117,7 @@ ___
 - **Physical**
 	- Physical controls are *designed to address physical interactions*. Generally related to buildings and equipment. (i.e., Gates, Barricades, Locks, etc.)
 ### Control Classifications:
-> A control can (and often does) *have multiple classifications* depending upon context
+A control can (and often does) *have multiple classifications* depending upon context
 - **Deterrent** - Discourages a threat agent from acting.
 - **Preventative** - Stops a threat agent from being successful.
 - **Detective** - Identifies and reports a threat agent.
@@ -127,24 +126,20 @@ ___
 ___
 # 2.1 Security and Privacy Principles
 ### Information Security CIA Triad
+The three components of information security.
 ![[ciatriad.png]]
-> The three components of information security.
-1. **Confidentiality**
-	- The assurance that information is not disclosed to unauthorized persons, processes, or devices. 
-2. **Integrity**
-	- The principal that systems are trustworthy, work as intended, and the data is complete and accurate.
-3. **Availability**
-	- The principal that information, systems and supporting infrastructure are operating and accessible when we need.
+1. **Confidentiality** - The assurance that information is not disclosed to unauthorized persons, processes, or devices. 
+2. **Integrity** - The principal that systems are trustworthy, work as intended, and the data is complete and accurate.
+3. **Availability** - The principal that information, systems and supporting infrastructure are operating and accessible when we need.
 ### Supporting Principles
 - **Authentication** - The process of verifying identity.
 - **Authorization** - The process of approving access.
 - **Accounting** - The process of tracing actions to the source.
 - **Non-Repudiation** - The process of assuring the validity and origin of data.
 ### CIA Triad + Privacy
-> To expand upon the existing CIA Triad, we should add **Privacy**.
+To expand upon the existing CIA Triad, we should add **Privacy**.
 
-4. **Privacy**
-	- The right of an individual to control the use of their personal information.
+4. **Privacy** - The right of an individual to control the use of their personal information.
 ### Privacy Expectations
 Consumers expect their privacy to be respected and their personal information to be protected be the organizations with which they do business.
 - Data privacy controls relate to actions regarding collection, usage, notification, accuracy, and sharing.
@@ -159,7 +154,7 @@ Consumers expect their privacy to be respected and their personal information to
 7. **Individual Participation** - Individuals have the right to know if their data is held, access it easily, get reasons for denied requests, and correct or delete errors.
 8. **Accountability** - A data controller must follow and uphold the above principles.
 ### Strategic Alignment
-- Every security and privacy objective must be strategically aligned with the needs of the organization.
+Every security and privacy objective must be strategically aligned with the needs of the organization.
 
 > [!info]+ Our Mission
 > Integrate the fundamental principles of confidentiality, integrity, availability, and privacy into business processes in support of organizational objectives.
@@ -167,7 +162,7 @@ Consumers expect their privacy to be respected and their personal information to
 ___
 # 2.2 Zero Trust
 ### Zero Trust (ZT)
-- A security framework requiring all subjects, assets, and workflows to be *authenticated*, *authorized*, and *continuously validated* before being granted or keeping access to applications and data.
+A security framework requiring all subjects, assets, and workflows to be *authenticated*, *authorized*, and *continuously validated* before being granted or keeping access to applications and data.
 ### A Zero Trust View of a Network
 1. **No Implicit Zone Trust** - The entire enterprise private network is not considered an implicit trust zone. Assets should always act as id an attacker is present on the enterprise network.
 2. **No Ownership Assumptions** - Devices on the network may not be owned or configurable by the enterprise. Not all enterprise resources are on enterprise-owned infrastructure.
