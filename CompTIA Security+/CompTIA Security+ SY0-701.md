@@ -173,6 +173,11 @@ ___
 2. **No Ownership Assumptions** - Devices on the network may not be owned or configurable by the enterprise. Not all enterprise resources are on enterprise-owned infrastructure.
 3. **Insecure Connections** - Remote subjects should assume that the local (i.e., non-enterprise-owned) network is hostile. Assume that all traffic is being monitored and potentially modified.
 4. **Consistent Security Policy** - Assets and workloads should retain their security posture when moving to or from enterprise-owned infrastructure.
+### Core Principals of Zero Trust (NIST SP800-207)
+1. **Continuous Verification** - 
+2. **Access Limitation** - 
+3. **Limit the Blast Radius** - 
+4. **Automate** - 
 ___
 # 2.3 Physical Security
 ___
