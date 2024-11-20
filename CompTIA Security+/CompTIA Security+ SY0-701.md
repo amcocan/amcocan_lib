@@ -186,6 +186,49 @@ In networking, a *plane* is an abstract concept of where certain processes take 
 4. **Policy Enforcement Point (PEP)** - Is responsible for enabling, monitoring, and eventually terminating connections between a subject and an enterprise resource.
 ___
 # 2.3 Physical Security
+### Physical Security
+The protection of people, property, and physical assets from actions and events that could cause damage, loss, or unauthorized activity.
+
+> [!info]+ Physical Security Concept
+> Physical security is based upon a layered defense model. The promise of a *layered defense model* is that if an intruder can bypass one layer of controls, the next layer of controls should provide additional deterrence or detection capabilities.
+
+- **Obstacles (Deterrent Controls)** - Used to frustrate trivial attackers and delay serious ones.
+- **Detective Controls** - Used to make it likely for attacks to be noticed.
+- **Response Mechanisms** - Used to catch or impede attackers.
+### CPTED
+The basic premise of *Crime Prevention Through Environmental Design* (CPTED) is that the proper design and effective use of the physical environment can lead to a reduction in the incidence and fear of crime, and increase safety.
+
+> [!NOTE]+ Understanding CPTED
+> CPTED relies on psychological and sociological responses.
+> - People protect territory they feel is their own, and people have certain respect for the territory of others.
+> - Intruders do not want to be seen.
+> - Limiting access discourages intruders and/or marks them as intruders.
+
+### Fail-Safe / Fail-Secure
+There are two modes for physical security structure controls, fail-safe and fail-secure.
+- **Fail-Safe** - Implies that in an emergency or fault situation, controls will default to open (unlocked).
+- **Fail-Secure** - Implies that in an emergency, controls will default to closed (locked).
+### Cyber and Physical Security Convergence
+There is significant overlap in physical and cybersecurity controls.
+
+> [!NOTE]+ Cyber/Physical Convergence Example
+> Using a picture ID badge to identify oneself to security guards, then using the same card to "swipe" into the building, then using the same card to log into your computer with proximity technology (e.g., NFC) that automatically locks down the computer when you walk away from your desk, and produces an audit trail of your whereabouts and activity.
+
+### Design Considerations
+Structural design can be used to deter, prevent, and detect unauthorized access.
+- **Data Center**
+	- Located in the center of a facility with no external windows or doors.
+	- Located on the floors other than the basement, first floor, and top floor.
+	- Full walls extending from floor to ceiling.
+	- Non-partitioned ceiling.
+- **Elevators & Stairwells**
+	- Keypad code.
+	- RFID card access in which call buttons don't register until an authorized card is detected.
+### Site Security Controls
+1. **Lighting** - 
+2. **Signs** - 
+3. **Barriers** - 
+4. **Guards** - 
 ___
 # 2.4 Environmental Security
 ___
