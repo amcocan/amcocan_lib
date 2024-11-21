@@ -256,7 +256,19 @@ Environmental imbalance and vulnerabilities can impact stability, availability, 
 4. **Fire** - Fire detection and suppression capabilities.
 ### Hot Aisle / Cold Aisle Data Center Circulation
 ![[Data Center Circulation.png]]
-### 
+### Power Protection
+1. **Brownout** - Prolonged period with low voltage.
+2. **Sag** - Moment of low voltage.
+3. **Surge** - Prolonged period of high voltage.
+4. **Spike** - Moment of high voltage.
+5. **Blackout** - Prolonged period without power.
+
+> [!info]+ Power Controls
+> **Power Protection Controls** - Voltage Regulators, Surge Protectors, Powerline Conditioners, and Battery Backups/UPS.
+> **Power Resiliency Controls** - Battery Backups/UPS, Generators, and Supplier Diversity.
+
+### Fire Detection and Suppression
+
 ___
 # 2.5 Deception and Disruption
 ___
