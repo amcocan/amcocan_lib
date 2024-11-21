@@ -93,7 +93,7 @@ Controls should be subject to a cost-benefit analysis.
 | Justified Cost                    | The cost of the control is justified.                                             |
 | Unjustified Cost                  | The cost of the control is unjustified.                                           |
 | Cost Justification (ROI Analysis) | An ROI analysis is required to determine the justification of the control's cost. |
-```bash
+```
 Control Cost < Loss Cost == Justified Cost
 Control Cost > Loss Cost == Unjustified Cost
 Control Cost = Loss Cost == Cost Justification (ROI Analysis)
