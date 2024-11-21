@@ -250,10 +250,13 @@ Environmental imbalance and vulnerabilities can impact stability, availability, 
 	- Environmental system providers should be subject to due diligence (investigation) and included in vendor management programs.
 	- Environmental controls/products should be included in vulnerability management, patch management, disaster recovery, business continuity, and assessment/audit programs.
 ### Environmental Baselines
-1. **Temperature** - 
-2. **Humidity** - 
-3. **Power** - 
-4. **Fire** - 
+1. **Temperature** - Acceptable temperature for an area containing computing devices is between 18-27 degrees ℃ (64.4-80.6 degrees ℉). Circulation must take into account temperature.
+2. **Humidity** - High humidity can cause corrosion and low humidity can cause excessive static electricity. Relative humidity between 50-70% is acceptable.
+3. **Power** - Continuous clean (filtered) power - consistent voltage. Use of power conditioners is advised.
+4. **Fire** - Fire detection and suppression capabilities.
+### Hot Aisle / Cold Aisle Data Center Circulation
+![[Data Center Circulation.png]]
+### 
 ___
 # 2.5 Deception and Disruption
 ___
