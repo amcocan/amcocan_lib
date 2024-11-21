@@ -233,16 +233,27 @@ Structural design can be used to deter, prevent, and detect unauthorized access.
 6. **Electronic Lock** - A type of lock that uses a keypad or card system and typically automatically locks doors.
 7. **Smart Lock** - A type of lock that connects to a device (e.g., Bluetooth, Wi-Fi, or Z-Wave) for access control.
 8. **Biometric Lock** - A type of lock that grants access based on physiological traits.
-9. **Passive Infrared Sensor** - 
-10. **Motion Sensor** - 
-11. **Photometric Sensor** - 
-12. **Acoustical Sensor** - 
-13. **Contact Sensor** - \
-14. **Pressure Sensor** - 
-15. **Microwave Sensor** - 
-16. **Ultrasonic Sensor** - 
+9. **Passive Infrared Sensor** - Senses change in heat signatures.
+10. **Motion Sensor** - Senses changes in movement.
+11. **Photometric Sensor** - Senses change in light.
+12. **Acoustical Sensor** - Senses changes in noise.
+13. **Contact Sensor** - Senses penetration or break in an electrical circuit.
+14. **Pressure Sensor** - Senses change in surface weight.
+15. **Microwave Sensor** - Senses movement within an invisible field of energy between the transmitter (Tx) and receiver (Rx).
+16. **Ultrasonic Sensor** - Senses proximity of a target by converting reflected sound waves into an electrical signal.
 ___
 # 2.4 Environmental Security
+### Environmental Impact
+Environmental imbalance and vulnerabilities can impact stability, availability, and integrity.
+- Computers, electronic equipment, and transmission media are sensitive to environmental factors such as heat, humidity, air flow, and power quality.
+- Environmental systems are often provided by and/or managed by contractors.
+	- Environmental system providers should be subject to due diligence (investigation) and included in vendor management programs.
+	- Environmental controls/products should be included in vulnerability management, patch management, disaster recovery, business continuity, and assessment/audit programs.
+### Environmental Baselines
+1. **Temperature** - 
+2. **Humidity** - 
+3. **Power** - 
+4. **Fire** - 
 ___
 # 2.5 Deception and Disruption
 ___
