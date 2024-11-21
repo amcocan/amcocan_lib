@@ -268,6 +268,16 @@ Environmental imbalance and vulnerabilities can impact stability, availability, 
 > **Power Resiliency Controls** - Battery Backups/UPS, Generators, and Supplier Diversity.
 
 ### Fire Detection and Suppression
+*Fire detection* is the identification of a fire situation. *Fire suppression* is the process of responding to and extinguishing fire.
+- Consult with the local fire department.
+- Install fire detection equipment.
+- Install fire alarms with strobe lights.
+- Have an emergency power-off electrical switch.
+- Locate portable fire extinguishers.
+- Use a clean fire suppression agent such as FM-200, Novec 1230, or inert gases that won't damage electronic equipment.
+- Maintain fire suppression equipment.
+### Discharge and Interference
+Electronic components can cable can be impacted by ESD, EMI, and RFI.
 
 ___
 # 2.5 Deception and Disruption

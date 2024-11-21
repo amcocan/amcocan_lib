@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CompTIA Security+/CompTIA Security+ SY0-701.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -159,17 +159,17 @@
   },
   "active": "cf49aea99305f522",
   "lastOpenFiles": [
+    "! ~ amcocan_lib.md",
+    "CompTIA Security+/CompTIA Security+ SY0-701.md",
     "CompTIA Security+/Linked Images/Data Center Circulation.png",
     "CompTIA Security+/Linked Images/Zero Trust Logical Components.png",
     "CompTIA Security+/! ~ CompTIA Security+.md",
-    "CompTIA Security+/CompTIA Security+ SY0-701.md",
     "CompTIA Security+/Linked Images/ciatriad.png",
     "CompTIA Security+/Linked Images/ciatriad.png.opdownload",
     "CompTIA Security+/Linked Images",
     "CompTIA Security+/New folder",
     "conflict-files-obsidian-git.md",
     "Cybersecurity/Social Engineering Attacks.md",
-    "! ~ amcocan_lib.md",
     "Untitled.md",
     "Linux Fundamentals/Shortcuts.md",
     "Subjects/! ~ Subjects.md",
@@ -204,7 +204,6 @@
     "Linux Fundamentals/Linked Images/Linux File System.png",
     "Linux Fundamentals/Linked Images/Intro To Shell.png",
     "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
-    "Pasted image 20240619221753.png",
-    "Pasted image 20240619202330.png"
+    "Pasted image 20240619221753.png"
   ]
 }
