@@ -278,7 +278,14 @@ Environmental imbalance and vulnerabilities can impact stability, availability, 
 - Maintain fire suppression equipment.
 ### Discharge and Interference
 Electronic components can cable can be impacted by ESD, EMI, and RFI.
-
+- **Electrostatic Discharge (ESD)** - Is the release of static electricity when two objects touch. ESD can damage or destroy electronic components.
+	- ESD can be minimized by using antistatic grounding workbenches, mats, bags, and wristbands.
+	- Electrical storms can increase the risk of ESD.
+- **Electromagnetic Interference (EMI) / Radio Frequency Interference (RFI)** - Equipment and copper cables are sensitive to EMI and RFI.
+	- Equipment should have limited exposure to magnets, fluorescent lights, electric motors, space heaters, and wireless assess points.
+	- Copper cable should be shielded.
 ___
 # 2.5 Deception and Disruption
+### Deception & Disruption
+
 ___
