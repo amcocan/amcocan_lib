@@ -229,10 +229,18 @@ Structural design can be used to deter, prevent, and detect unauthorized access.
 2. **Signs** - Used for personnel safety and intruder deterrence. Warning signs indicate surveillance.
 3. **Barriers** - Walls, gates, fences, bollards, and access control vestibules define the perimeter and can be used to control and divert flow of traffic.
 4. **Guards** - Stationed at checkpoints, patrol the area, manage surveillance, and respond to breaches and/or suspicious activity.
-5. **Pick Resistant Lock** - 
-6. **Electronic Lock** - 
-7. **Smart Lock** - 
-8. **Biometric Lock** - 
+5. **Pick Resistant Lock** - A type of lock that has an extra set of tumblers which makes it resistant to picking and "bumping".
+6. **Electronic Lock** - A type of lock that uses a keypad or card system and typically automatically locks doors.
+7. **Smart Lock** - A type of lock that connects to a device (e.g., Bluetooth, Wi-Fi, or Z-Wave) for access control.
+8. **Biometric Lock** - A type of lock that grants access based on physiological traits.
+9. **Passive Infrared Sensor** - 
+10. **Motion Sensor** - 
+11. **Photometric Sensor** - 
+12. **Acoustical Sensor** - 
+13. **Contact Sensor** - \
+14. **Pressure Sensor** - 
+15. **Microwave Sensor** - 
+16. **Ultrasonic Sensor** - 
 ___
 # 2.4 Environmental Security
 ___
