@@ -6,9 +6,9 @@ tags:
 ___
 # [[! ~ amcocan_lib]]
 
-- [*] [[! ~ Canvas]]
-- [*] [[! ~ Cheat Sheets]]
-- [*] [[! ~ Class Posts]]
+- [x] [[! ~ Canvas]]
+- [x] [[! ~ Cheat Sheets]]
+- [x] [[! ~ Class Posts]]
 - [x] [[! ~ CompTIA Security+]]
 - [x] [[! ~ Cybersecurity]]
 - [x] [[! ~ Linux Fundamentals]]
