@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+/CompTIA Security+ SY0-701.md",
+                "file": "Networking/OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CompTIA Security+ SY0-701"
+              "title": "OSI Model"
             }
           }
         ]
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "dfd01aed4aed3c17",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA Security+/CompTIA Security+ SY0-701.md",
+                "file": "Linux Fundamentals/Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CompTIA Security+ SY0-701"
+              "title": "Outgoing links from Debian"
             }
           },
           {
@@ -177,22 +176,38 @@
   },
   "active": "cf49aea99305f522",
   "lastOpenFiles": [
-    "! ~ amcocan_lib.md",
+    "Pasted image 20241213230932.png",
+    "Networking/OSI Model.md",
+    "Networking/Linked Images/Layer 1 OSI.png",
+    "Networking/Linked Images/Layer 2 OSI.png",
+    "Networking/Linked Images/Layer 3 OSI.png",
+    "Networking/Linked Images/Layer 4 OSI.png",
+    "Networking/Linked Images/Layer 5 OSI.png",
+    "Networking/Linked Images/Layer 6 OSI.png",
+    "Networking/Linked Images/Layer 7 OSI.png",
+    "Networking/Linked Images/OSI Model.png",
+    "Cybersecurity/Social Engineering Attacks.md",
+    "Cybersecurity/Incident Response.md",
+    "Cybersecurity/Learning Resources.md",
+    "Networking/! ~ Networking.md",
+    "Cybersecurity/! ~ Cybersecurity.md",
+    "Linux Fundamentals/Debian.md",
+    "Networking/Linked Images",
+    "Networking",
+    "Linux Fundamentals/Distributions.md",
     "CompTIA Security+/CompTIA Security+ SY0-701.md",
-    "CompTIA Security+/Linked Images/Data Center Circulation.png",
     "CompTIA Security+/Linked Images/Zero Trust Logical Components.png",
+    "Linux Fundamentals/System Information.md",
+    "! ~ amcocan_lib.md",
     "CompTIA Security+/! ~ CompTIA Security+.md",
-    "CompTIA Security+/Linked Images/ciatriad.png",
     "CompTIA Security+/Linked Images/ciatriad.png.opdownload",
     "CompTIA Security+/Linked Images",
     "CompTIA Security+/New folder",
     "conflict-files-obsidian-git.md",
-    "Cybersecurity/Social Engineering Attacks.md",
     "Untitled.md",
     "Linux Fundamentals/Shortcuts.md",
     "Subjects/! ~ Subjects.md",
     "Linux Fundamentals/! ~ Linux Fundamentals.md",
-    "Cybersecurity/! ~ Cybersecurity.md",
     "Class Posts/! ~ Class Posts.md",
     "Class Posts/CRR4000-O.md",
     "Cheat Sheets/! ~ Cheat Sheets.md",
@@ -200,28 +215,12 @@
     "Canvas/! ~ Canvas.md",
     "Linux Fundamentals/Terminal Emulators.md",
     "Linux Fundamentals/Prompt Description.md",
-    "Linux Fundamentals/System Information.md",
     "Linux Fundamentals/Philosophy.md",
-    "Linux Fundamentals/Navigation.md",
-    "Linux Fundamentals/Linux.md",
-    "Linux Fundamentals/Introduction to Shell.md",
-    "Linux Fundamentals/Getting Help.md",
-    "Linux Fundamentals/File System Hierarchy.md",
-    "Linux Fundamentals/Distributions.md",
     "Cybersecurity",
-    "Pasted image 20240902204250.png",
     "Class Posts/Linked Images",
-    "Class Posts/Linked Images/Vulnerability Management.jpeg",
     "Canvas/Whiteboard.canvas",
     "Nessus",
     "Cheat Sheets",
-    "Subjects",
-    "Linux Fundamentals/Linked Images/Terminal Emulators.png",
-    "Class Posts",
-    "Canvas",
-    "Linux Fundamentals/Linked Images/Linux File System.png",
-    "Linux Fundamentals/Linked Images/Intro To Shell.png",
-    "Cybersecurity/Linked Images/CVSS v3.1 Equations.png",
-    "Pasted image 20240619221753.png"
+    "Subjects"
   ]
 }
