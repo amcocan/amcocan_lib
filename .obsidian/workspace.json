@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/OSI Model.md",
+                "file": "! ~ amcocan_lib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI Model"
+              "title": "! ~ amcocan_lib"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "cf49aea99305f522",
   "lastOpenFiles": [
-    "Pasted image 20241213230932.png",
     "Networking/OSI Model.md",
+    "Pasted image 20241213230932.png",
     "Networking/Linked Images/Layer 1 OSI.png",
     "Networking/Linked Images/Layer 2 OSI.png",
     "Networking/Linked Images/Layer 3 OSI.png",

@@ -13,4 +13,5 @@ ___
 - [x] [[! ~ Cybersecurity]]
 - [x] [[! ~ Linux Fundamentals]]
 - [x] [[! ~ Nessus]]
+- [x] [[! ~ Networking]]
 ___
